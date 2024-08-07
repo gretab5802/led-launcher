@@ -1,4 +1,4 @@
-# Led Launcher
+# LED Launcher
 
 Project statement: How might I control specific motors with the motion of my hand?
 
