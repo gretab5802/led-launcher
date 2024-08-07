@@ -8,10 +8,10 @@ Given three LEDs, three servo motors, and a gyroscope accelerometer, tilt the ac
 
 [View the PDF Overview](/images/CSE1012IndividualProject2-Overview.pdf)
 <p align="center">
-  <img src="/images/CSE1012IndividualProject2Full.png" height="200" />
-  <img src="/images/CSE1012IndivProjec2LED1.JPEG" height="200" />
-  <img src="/images/CSE1012IndivProjec2LED2.JPEG" height="200" />
-  <img src="/images/CSE1012IndivProjec2LED3.JPEG" height="200" />
+  <img src="/images/CSE1012IndividualProject2Full.png" height="120" />
+  <img src="/images/CSE1012IndivProjec2LED1.JPEG" height="120" />
+  <img src="/images/CSE1012IndivProjec2LED2.JPEG" height="120" />
+  <img src="/images/CSE1012IndivProjec2LED3.JPEG" height="120" />
 </p>
 
 ## Getting Started
