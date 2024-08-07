@@ -6,12 +6,12 @@ Project statement: How might I control specific motors with the motion of my han
 
 Given three LEDs, three servo motors, and a gyroscope accelerometer, tilt the accelerometer side to side to change which LED will light up. The LEDs correspond to the three motors. Once the desired motor to activate is selected, tilt the accelerometer back toward the user to "prepare" the motor. Then, quickly move it away from the user to activate the motor. If the motor is quick enough, you can use it to launch small paper balls at friends!
 
+[View the PDF Overview](/images/CSE1012IndividualProject2-Overview.pdf)
 <p align="center">
-  <img src="/images/CSE1012IndividualProject2-Overview.pdf" height="100" />
-  <img src="/images/CSE1012IndividualProject2Full.png" height="100" />
-  <img src="/images/CSE1012IndivProjec2LED1.JPEG" height="100" />
-  <img src="/images/CSE1012IndivProjec2LED2.JPEG" height="100" />
-  <img src="/images/CSE1012IndivProjec2LED3.JPEG" height="100" />
+  <img src="/images/CSE1012IndividualProject2Full.png" height="200" />
+  <img src="/images/CSE1012IndivProjec2LED1.JPEG" height="200" />
+  <img src="/images/CSE1012IndivProjec2LED2.JPEG" height="200" />
+  <img src="/images/CSE1012IndivProjec2LED3.JPEG" height="200" />
 </p>
 
 ## Getting Started
